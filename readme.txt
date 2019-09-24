@@ -1,5 +1,6 @@
-Project White RPG Project
+RPG Project
 Chad Sutherland, Felipe Oliveira, Daniyar Aubekerov
+
 
 Binary I/O:
 Takes place in the map load and save functions. Saving is fully functional, but loading files results in an unhandled exception. The runtime error has something to do with memory allocation of Enemies and Enemy weapons. 
