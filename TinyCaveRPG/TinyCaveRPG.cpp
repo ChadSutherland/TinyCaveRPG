@@ -1,6 +1,6 @@
 // Tiny Cave
 // A text-based role-playing game developed by a team of three first-year students of computer science.
-// Last Modified: 9/23/2019
+// Submitted as CIT-237 Final Group Project 5/13/2019
 // Chad Sutherland, Felipe Oliveira, Daniyar Aubekerov
 
 #include "Map.h"
